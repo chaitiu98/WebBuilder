@@ -28,13 +28,13 @@ mobileNav.querySelectorAll('a').forEach(link => {
 
 /* ================= GALLERY ================= */
 const images = [
-  "images/gal1.webp",
-  "images/gal2.webp",
-  "images/gal3.webp",
-  "images/gal4.webp",
-  "images/gal5.webp",
-  "images/gal6.webp",
-  "images/gal7.webp"
+  "Images/gal1.webp",
+  "Images/gal2.webp",
+  "Images/gal3.webp",
+  "Images/gal4.webp",
+  "Images/gal5.webp",
+  "Images/gal6.webp",
+  "Images/gal7.webp"
 ];
 
 const current = document.getElementById("current");
@@ -135,4 +135,5 @@ document.addEventListener("DOMContentLoaded", function() {
 
   scrollElements.forEach(el => observer.observe(el));
 });
+
 
