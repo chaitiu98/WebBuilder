@@ -376,7 +376,7 @@ body {
 /* ---------- DREAM HOME SECTION ---------- */
 .dream-home {
   position: relative;
-  background: url("images/aerial_lasvegas.jpg") center/cover no-repeat;
+  background: url("Images/aerial_lasvegas.jpg") center/cover no-repeat;
   color: white;
   min-height: 90vh;
   display: flex;
@@ -1250,6 +1250,7 @@ body {
   border-bottom: 30px solid #000;
   margin-left: -30px;
 }
+
 
 
 
